@@ -1,1 +1,1 @@
-bye bye microsoft. please visit https://git.osuv.de/m/markuman/graph-toolkit
+bye bye microsoft. please visit https://git.osuv.de/m/graph-toolkit
